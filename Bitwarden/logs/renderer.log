@@ -1,0 +1,26 @@
+[2022-07-09 13:33:40.756] [info]  search indexing: 0.1963486ms
+[2022-07-09 13:33:42.213] [info]  search indexing: 2.1519054ms
+[2022-07-09 13:41:23.618] [info]  search indexing: 2.4351437ms
+[2022-07-09 14:33:11.781] [info]  search indexing: 1.9441174ms
+[2022-07-15 16:59:39.448] [info]  search indexing: 3.1260375ms
+[2022-07-15 17:07:25.239] [info]  search indexing: 5.329978ms
+[2022-07-15 17:07:46.503] [info]  search indexing: 3.0860426ms
+[2022-07-15 17:08:07.783] [info]  search indexing: 2.0068936ms
+[2022-07-15 17:12:07.495] [error] {
+  response: {
+    error: 'invalid_grant',
+    error_description: 'invalid_username_or_password',
+    ErrorModel: {
+      Message: 'Username or password is incorrect. Try again.',
+      Object: 'error'
+    }
+  },
+  message: 'Username or password is incorrect. Try again.',
+  captchaRequired: false,
+  statusCode: 400
+}
+[2022-07-15 17:12:07.508] [error] Received API exception: [object Object]
+[2022-07-15 17:12:49.895] [info]  search indexing: 0.2123434ms
+[2022-07-15 17:12:51.149] [info]  search indexing: 2.8989925ms
+[2022-07-15 17:15:05.594] [info]  search indexing: 3.2461733ms
+[2022-07-15 20:14:59.252] [info]  search indexing: 3.1696036ms

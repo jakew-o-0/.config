@@ -1,0 +1,27 @@
+window  {
+	combi:"run";
+	font:"source code pro 12";
+	background-color: #3b3228dd;
+	text-color: #d0c8c6;
+	}
+scrollbar {
+	background-color: #3b3228dd;
+	handle-color: #cb6077;
+	}
+prompt  {
+	text-color: #a89bb9;
+	highlight: #7e705a;
+	}
+entry   {
+	text-color: #d0c8c6;
+	}
+element-highlight {
+	background-color: #7e705a;
+	}
+element-text {
+	highlight: #8ab3b5;
+	text-color: #a89bb9;	
+	background-color: #3b3228dd;
+	border-color: #3b3228dd;
+	}
+@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
